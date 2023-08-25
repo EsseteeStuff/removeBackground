@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/logo6.ico</file>
+    <file>images/Elegantthemes-Beautiful-Flat-Arrow-Down.svg</file>
+    <file>images/Elegantthemes-Beautiful-Flat-Camera.svg</file>
+    <file>images/Elegantthemes-Beautiful-Flat-Memorycard.svg</file>
+    <file>images/Elegantthemes-Beautiful-Flat-Power.svg</file>
+    <file>images/Elegantthemes-Beautiful-Flat-Profile.svg</file>
+    <file>images/Elegantthemes-Beautiful-Flat-Train.svg</file>
+    <file>images/load.png</file>
+    <file>images/media-downloader.svg</file>
+  </qresource>
+</RCC>

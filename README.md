@@ -13,11 +13,15 @@ Dutch : visit https://terryn-serge.be/html/8
 English: right click start button -> Settings -> Update & Security -> For Developers -> Scroll to Powershell and click the Apply button.
 
 
-1. Make a virtual environment.
+<strong>1. Make a virtual environment.</strong>
 
-    python3 -m venv venv
+    a. linux and mac:
+        python3 -m venv venv
+        
+    b. windows:
+        py -m venv venv
 
-2. Activate the environment.
+<strong>2. Activate the environment.</strong>
 
     a. linux and mac:
         source venv/bin/activate
@@ -25,11 +29,11 @@ English: right click start button -> Settings -> Update & Security -> For Develo
     b. windows:
         venv\Scripts\Activate.ps1
 
-3. In your virtual environment run:
+<strong>3. In your virtual environment run:</strong>
 
     pip install -r requirements.txt
 
-4. Run the application:
+<strong>4. Run the application:</strong>
 
     python3 ./app.py
 

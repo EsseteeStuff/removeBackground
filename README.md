@@ -1,6 +1,10 @@
 # removeBackground
 Remove backgrounds from images
 
+Full credits to <strong>Daniel Gatis</strong> https://github.com/danielgatis/rembg
+
+I only build an UI around it.
+
 Needed: python >= 3.7
 
 For windows users who don't have python installed, download the latest version from https://www.python.org.
